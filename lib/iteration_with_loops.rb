@@ -13,7 +13,7 @@ def find_min_in_nested_arrays(src)
 new_array = array_of_daily_temperatures.map{|a| a.min}
 
 end
-def find_min_in_nested_arrays(array_2)
+def find_min_in_nested_arrays(array_of_daily_temperatures)
 new_array = array_of_daily_temperatures.map{|a| a.min}
 array_2 = [
   [1,2,3],
