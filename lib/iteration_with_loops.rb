@@ -19,5 +19,5 @@ array_2 = [
   [5,1,3],
   [4,3,0]
 ]
-array_2.map{|a| a.min}
+
 end 
