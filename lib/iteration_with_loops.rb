@@ -21,4 +21,5 @@ array_2 = [
   [4,3,0]
 ]
 array_2.map{|a| a.min}
+new_array = array_of_daily_temperatures.map{|a| a.min}
 end
